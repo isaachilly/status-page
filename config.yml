@@ -142,12 +142,12 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
+    - name: Main
       description: The main servers are located here.
       closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+    # - name: Empty Category
+    # - name: Uncategorized
+    #   untitled: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -159,7 +159,7 @@ params:
   systems:
     - name: Website
       description: The web frontend for the application.
-      category: Uncategorized
+      category: Main
       link: https://www.isaachill.co.uk
 
   # What date format to use?
