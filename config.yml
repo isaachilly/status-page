@@ -157,7 +157,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Website
+    - name: www.isaachill.co.uk
       description: The web frontend for the application.
       category: Main
       link: https://www.isaachill.co.uk
